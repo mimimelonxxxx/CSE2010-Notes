@@ -40,3 +40,80 @@ Note: None of these definitions rely on modern technology
     ![UNIVAC](images/04_univacii.jpg)
     - used first generation software, where the programming language was similar to binary and programmers would program by arranging sets of zeros and ones that represented statements. 
 
+- 1960s: Introduction of FORTRAN and COBOL, which were *high level languages*, meaning they were written with more human-like language rather than binary. 
+
+- 1970s: Introduction of the *operating system* and *structured programming languages*. 
+
+- late 1980s: Introduction to parallel compiling (multi-core processing). 
+
+- late 1980s: Introduction of the *Ethernet Cable* which made it really cheap to setup networking, paving the way for the internet. 
+
+- 1990s: Introduction of modular programs within the operating system. (MS Office, MS Paint, other installables like games, etc)
+
+- 1990s: Introduction of OOP
+
+### Trends in Modern Computing Technology 
+
+- Social Media
+
+- e-Commerce
+
+- e-Sports
+
+- Cryptography 
+
+## New System Design 
+
+- A **societal issue**, where a problem or its solution has considerable influence on individuals within a society. Current example is Artificial Intelligence affecting education, automation, media, visual arts, and more. 
+
+* An **ethical issue** is a problem or situation that requires a person or organization to choose between alternatives that may be evaluated as *right* or *wrong*. 
+
+* For IB, it is important to discuss how new computer systems help or hinder an issue. 
+
+### Stakeholders 
+
+To understand what issues may arise, relevant stakeholders must be indentified and consulted. 
+
+* A *stakeholder* is a person, group, organization, or entity that has **interest** or **concern** in an organization. 
+    * Example: The stakeholders involved in the success of your education include: 
+        * You, the student 
+        * Teachers 
+        * Parents 
+        * Principal & other admin that ensure operations within the school and individual student completion of high school. 
+        * Secondary Stakeholders 
+            * The school district 
+            * City transportation 
+            * Utilities companies (electricity, water, internet)
+            * provincial government 
+
+- Not all stakeholders are **equal**, oftentimes stakeholders are categorized as internal (primary) or external (secondary) to the entity. 
+
+To identify internal stakeholders affected by a new system, ask the following: 
+
+1. Who will be **affected by** the new system? 
+
+    a) Teacher's work is affected by curriculumn change (they have to do **work** to change to the new system)
+
+2. Who will the new system **affect**? 
+
+    a) New system affects the students (the **results** affect them)
+
+3. Who will the **end users** be? 
+
+    a) New sale in store affects the sales associates who have to scan in the new sale 
+
+4. What are the new system's **needs**? 
+
+* Internal stakeholders tend to be directly connected to the new system on a micro-level. (they are connected without the use of multiple people)
+
+* Social Studies Links 
+
+    * Mutliple influences outside the system can affect how a new system is developed. 
+
+    * Where is the money coming from? 
+
+    * When designing a new system, not every stakeholder will receive a desireable outcome. 
+
+    * *Utlilitarianism* is the approach where new systems results in the greatest good for the greatest number of people. Computer systems can inadvertently amplify these prejudices. 
+
+    
